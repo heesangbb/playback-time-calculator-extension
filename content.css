@@ -1,0 +1,17 @@
+#playback-time{
+  font-size: 1.4rem;
+  line-height: 2rem;
+  font-weight: 400;
+}
+
+@media (prefers-color-scheme: light) {
+  #playback-time{
+    color: #030303;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  #playback-time{
+    color: white;
+  }
+}
