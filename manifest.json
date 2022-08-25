@@ -1,7 +1,7 @@
 {
   "name": "Playback Time Calculator(YouTube)",
   "description": "Calculate time by playback speed of video and playlist.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "content_scripts": [
     {
