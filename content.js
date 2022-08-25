@@ -76,7 +76,7 @@ const udemyCourseTime = () => {
     const time = parseFloat(videoTime.innerText.replace(/[^0-9\.]/g, ''));
     const total = String(time * 60 * 60);
     const content = ` ⏱`;
-    render(target.fo, total, content, 'span');
+    render(target, total, content, 'span');
   }
 };
 

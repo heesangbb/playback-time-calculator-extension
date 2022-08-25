@@ -1,14 +1,18 @@
-# Playback Time Calculator(YouTube)
+# Playback Time Calculator | YouTube, Udemy
 
 | This extension displays time by playback speed of videos and playlists.
 
 ## Screenshot
 
-![screenshot-01](./doc/playback-extension-01.png)
+![screenshot-01](./doc/playback-youtube-01.png)
 
-![screenshot-02](./doc/playback-extension-02.png)
+![screenshot-02](./doc/playback-youtube-02.png)
 
-![screenshot-03](./doc/playback-extension-03.png)
+![screenshot-03](./doc/playback-youtube-03.png)
+
+![screenshot-03](./doc/playback-udemy-01.png)
+
+![screenshot-05](./doc/playback-udemy-02.png)
 
 ## Features:
 
@@ -21,7 +25,7 @@ Displays the total playing time of the playlist(by playback speed).
 
 ## Caution:
 
-If there are more than 100 videos in the playlist, scroll down and it will be counted again when loading is complete.
+If there are more than 100 videos in the playlist, scroll down and it will be counted again when loading is complete. - youtube
 
 ## TODO
 
